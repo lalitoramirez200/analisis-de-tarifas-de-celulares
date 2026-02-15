@@ -1,1 +1,8 @@
 # analisis-de-tarifas-de-celulares
+#El analisis de los datos nos muestra diferencias significativas, se confirma que el plan ultimate genera ingresos promedio superiores
+#El redondeo hacia arriba de la duración de llamadas y el consumo de datos
+#Conversion de MB a GB, para facilitar los calculos de excesos y agregar datos por usuario y mes, para crear un dataset
+#El análisis del comportamiento de usuarios mostró que ambos planes tienen patrones de consumo similares en llamadas y mensajes, pero los usuarios de Ultimate tienden a mantenerse dentro de sus límites más generosos, mientras que los de Surf frecuentemente exceden los límites y pagan cargos adicionales, generando costos más elevados a un plan ultimate
+#Los resultados de la primera Hipotesis muestran que sí existe una diferencia significativa en los ingresos promedio entre los planes Surf y Ultimate (p ≈ 3.17e-15), por lo que los usuarios generan ingresos distintos según el plan que utilizan.
+#Sin embargo en la segunda hipotesis, no existe evidencia estadística de que los usuarios del área NY–NJ tengan ingresos promedio diferentes a los de otras regiones (p ≈ 0.61). En otras palabras, la ubicación geográfica no influye significativamente en los ingresos promedio, pero el tipo de plan sí lo hace.
+#enfocar el presupuesto publicitario en el plan Ultimate, ya que no solo genera mayores ingresos promedio de manera consistente, sino que también ofrece mejor satisfacción al cliente al evitar cargos por excesos frecuentes.
